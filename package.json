@@ -2,11 +2,11 @@
   "name": "newbackend",
   "version": "1.0.0",
   "description": "NITCAMP Backend API",
-  "main": "index.js",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only server.ts",
     "build": "tsc",
-    "start": "node dist/index.js"
+    "start": "node dist/server.js"
   },
   "keywords": [],
   "author": "",
