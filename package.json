@@ -1,7 +1,7 @@
 {
   "name": "newbackend",
   "version": "1.0.0",
-  "description": "",
+  "description": "NITCAMP Backend API",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only server.ts",
