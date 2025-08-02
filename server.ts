@@ -59,7 +59,7 @@ const MODE = process.env.MODE;
 
 const app = express();
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: process.env.FRONTEND_URL || "http://localhost:5431", // Adjust this to your client URL
   credentials: true
 }));
 

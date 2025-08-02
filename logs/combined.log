@@ -1,0 +1,193 @@
+2025-07-26 18-14 [INFO] - Server is running on port 3001
+2025-07-26 18-14 [INFO] - Database connected successfully
+2025-07-26 18-14 [INFO] - All models synced
+2025-07-26 20-26 [INFO] - Server is running on port 3001
+2025-07-26 20-26 [ERROR] - Database connection failed: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db.yrzspaghhwxaoiemheiq.supabase.co
+2025-07-26 20-26 [ERROR] - Sync Failed: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db.yrzspaghhwxaoiemheiq.supabase.co
+2025-07-29 22-18 [INFO] - Server is running on port 3001
+2025-07-29 22-18 [ERROR] - Database connection failed: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db.yrzspaghhwxaoiemheiq.supabase.co
+2025-07-29 22-18 [ERROR] - Sync Failed: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db.yrzspaghhwxaoiemheiq.supabase.co
+2025-07-30 18-10 [INFO] - Server is running on port 3001
+2025-07-30 18-10 [INFO] - Database connected successfully
+2025-07-30 18-10 [INFO] - All models synced
+2025-07-30 18-11 [INFO] - Server is running on port 3001
+2025-07-30 18-11 [INFO] - Database connected successfully
+2025-07-30 18-11 [INFO] - All models synced
+2025-07-30 18-21 [INFO] - Server is running on port 3001
+2025-07-30 18-21 [INFO] - Database connected successfully
+2025-07-30 18-21 [INFO] - All models synced
+2025-07-30 18-32 [INFO] - Server is running on port 3001
+2025-07-30 18-32 [INFO] - Database connected successfully
+2025-07-30 18-32 [INFO] - All models synced
+2025-07-30 18-34 [INFO] - Server is running on port 3001
+2025-07-30 18-34 [INFO] - Database connected successfully
+2025-07-30 18-34 [INFO] - All models synced
+2025-07-30 19-18 [INFO] - Server is running on port 3001
+2025-07-30 19-18 [INFO] - Database connected successfully
+2025-07-30 19-18 [INFO] - All models synced
+2025-07-30 19-21 [INFO] - Server is running on port 3001
+2025-07-30 19-21 [INFO] - Database connected successfully
+2025-07-30 19-21 [INFO] - All models synced
+2025-07-30 19-27 [INFO] - Server is running on port 3001
+2025-07-30 19-27 [INFO] - Database connected successfully
+2025-07-30 19-27 [INFO] - All models synced
+2025-07-30 19-39 [INFO] - Server is running on port 3001
+2025-07-30 19-39 [INFO] - Database connected successfully
+2025-07-30 19-39 [INFO] - All models synced
+2025-07-30 19-41 [INFO] - Server is running on port 3001
+2025-07-30 19-41 [INFO] - Database connected successfully
+2025-07-30 19-41 [INFO] - All models synced
+2025-07-30 19-42 [INFO] - Server is running on port 3001
+2025-07-30 19-42 [INFO] - Database connected successfully
+2025-07-30 19-42 [INFO] - All models synced
+2025-07-30 22-36 [INFO] - Server is running on port 3001
+2025-07-30 22-36 [INFO] - Database connected successfully
+2025-07-30 22-36 [INFO] - All models synced
+2025-07-30 22-41 [INFO] - Server is running on port 3001
+2025-07-30 22-41 [INFO] - Database connected successfully
+2025-07-30 22-41 [INFO] - Server is running on port 3001
+2025-07-30 22-41 [INFO] - Database connected successfully
+2025-07-30 22-41 [INFO] - All models synced
+2025-07-30 22-55 [INFO] - Server is running on port 3001
+2025-07-30 22-55 [INFO] - Database connected successfully
+2025-07-30 22-55 [INFO] - All models synced
+2025-07-30 23-12 [INFO] - Server is running on port 3001
+2025-07-30 23-12 [INFO] - Database connected successfully
+2025-07-30 23-12 [INFO] - All models synced
+2025-07-30 23-15 [INFO] - Server is running on port 3001
+2025-07-30 23-15 [INFO] - Database connected successfully
+2025-07-30 23-15 [INFO] - All models synced
+2025-07-30 23-17 [INFO] - Server is running on port 3001
+2025-07-30 23-17 [INFO] - Database connected successfully
+2025-07-30 23-17 [INFO] - All models synced
+2025-07-31 01-20 [INFO] - Server is running on port 3001
+2025-07-31 01-20 [INFO] - Database connected successfully
+2025-07-31 01-20 [INFO] - All models synced
+2025-07-31 01-24 [INFO] - Server is running on port 3001
+2025-07-31 01-24 [INFO] - Database connected successfully
+2025-07-31 01-24 [INFO] - All models synced
+2025-07-31 10-17 [INFO] - Server is running on port 3001
+2025-07-31 10-17 [INFO] - Database connected successfully
+2025-07-31 10-17 [INFO] - All models synced
+2025-07-31 10-49 [INFO] - Server is running on port 3001
+2025-07-31 10-50 [INFO] - Database connected successfully
+2025-07-31 10-50 [INFO] - All models synced
+2025-07-31 10-58 [INFO] - Server is running on port 3001
+2025-07-31 10-58 [INFO] - Database connected successfully
+2025-07-31 10-58 [INFO] - All models synced
+2025-07-31 11-28 [INFO] - Server is running on port 3001
+2025-07-31 11-28 [INFO] - Database connected successfully
+2025-07-31 11-28 [INFO] - All models synced
+2025-07-31 11-30 [INFO] - Server is running on port 3001
+2025-07-31 11-30 [INFO] - Database connected successfully
+2025-07-31 11-30 [INFO] - All models synced
+2025-07-31 11-33 [INFO] - Server is running on port 3001
+2025-07-31 11-33 [INFO] - Database connected successfully
+2025-07-31 11-33 [INFO] - All models synced
+2025-07-31 11-42 [INFO] - Server is running on port 3001
+2025-07-31 11-42 [INFO] - Database connected successfully
+2025-07-31 11-42 [INFO] - All models synced
+2025-07-31 11-46 [INFO] - Server is running on port 3001
+2025-07-31 11-46 [INFO] - Database connected successfully
+2025-07-31 11-46 [INFO] - All models synced
+2025-07-31 11-50 [INFO] - Server is running on port 3001
+2025-07-31 11-50 [INFO] - Database connected successfully
+2025-07-31 11-50 [INFO] - All models synced
+2025-07-31 12-04 [INFO] - Server is running on port 3001
+2025-07-31 12-04 [INFO] - Database connected successfully
+2025-07-31 12-04 [INFO] - All models synced
+2025-07-31 12-13 [INFO] - Server is running on port 3001
+2025-07-31 12-13 [INFO] - Database connected successfully
+2025-07-31 12-13 [INFO] - All models synced
+2025-07-31 12-23 [INFO] - Server is running on port 3001
+2025-07-31 12-23 [INFO] - Database connected successfully
+2025-07-31 12-23 [INFO] - All models synced
+2025-07-31 12-24 [INFO] - Server is running on port 3001
+2025-07-31 12-24 [INFO] - Database connected successfully
+2025-07-31 12-24 [INFO] - All models synced
+2025-07-31 12-25 [INFO] - Server is running on port 3001
+2025-07-31 12-25 [INFO] - Database connected successfully
+2025-07-31 12-25 [INFO] - All models synced
+2025-07-31 12-33 [INFO] - Server is running on port 3001
+2025-07-31 12-33 [INFO] - Database connected successfully
+2025-07-31 12-33 [INFO] - All models synced
+2025-07-31 12-33 [INFO] - Server is running on port 3001
+2025-07-31 12-33 [INFO] - Database connected successfully
+2025-07-31 12-33 [INFO] - All models synced
+2025-07-31 12-36 [INFO] - Server is running on port 3001
+2025-07-31 12-36 [INFO] - Database connected successfully
+2025-07-31 12-37 [INFO] - All models synced
+2025-07-31 12-39 [INFO] - Server is running on port 3001
+2025-07-31 12-39 [INFO] - Database connected successfully
+2025-07-31 12-39 [INFO] - All models synced
+2025-07-31 12-44 [INFO] - Server is running on port 3001
+2025-07-31 12-44 [INFO] - Database connected successfully
+2025-07-31 12-44 [INFO] - All models synced
+2025-07-31 12-48 [INFO] - Server is running on port 3001
+2025-07-31 12-48 [INFO] - Database connected successfully
+2025-07-31 12-48 [INFO] - All models synced
+2025-07-31 12-50 [INFO] - Server is running on port 3001
+2025-07-31 12-50 [INFO] - Database connected successfully
+2025-07-31 12-50 [INFO] - All models synced
+2025-07-31 12-50 [INFO] - Server is running on port 3001
+2025-07-31 12-50 [INFO] - Database connected successfully
+2025-07-31 12-50 [INFO] - All models synced
+2025-07-31 19-04 [INFO] - Server is running on port 3001
+2025-07-31 19-04 [INFO] - Database connected successfully
+2025-07-31 19-04 [INFO] - All models synced
+2025-07-31 19-21 [INFO] - Server is running on port 3001
+2025-07-31 19-21 [INFO] - Database connected successfully
+2025-07-31 19-21 [INFO] - All models synced
+2025-07-31 19-59 [INFO] - Server is running on port 3001
+2025-07-31 19-59 [INFO] - Database connected successfully
+2025-07-31 19-59 [INFO] - All models synced
+2025-07-31 21-40 [INFO] - Server is running on port 3001
+2025-07-31 21-40 [INFO] - Database connected successfully
+2025-07-31 21-40 [INFO] - All models synced
+2025-08-01 14-08 [INFO] - Server is running on port 3001
+2025-08-01 14-08 [INFO] - Database connected successfully
+2025-08-01 14-08 [INFO] - All models synced
+2025-08-01 14-53 [INFO] - Server is running on port 3001
+2025-08-01 14-53 [INFO] - Database connected successfully
+2025-08-01 14-53 [INFO] - All models synced
+2025-08-01 15-05 [INFO] - Server is running on port 3001
+2025-08-01 15-05 [INFO] - Database connected successfully
+2025-08-01 15-05 [INFO] - All models synced
+2025-08-01 15-10 [INFO] - Server is running on port 3001
+2025-08-01 15-10 [INFO] - Database connected successfully
+2025-08-01 15-10 [INFO] - All models synced
+2025-08-01 15-10 [INFO] - Server is running on port 3001
+2025-08-01 15-10 [INFO] - Database connected successfully
+2025-08-01 15-10 [INFO] - All models synced
+2025-08-01 15-10 [INFO] - Server is running on port 3001
+2025-08-01 15-10 [INFO] - Database connected successfully
+2025-08-01 15-10 [INFO] - All models synced
+2025-08-01 15-11 [INFO] - Server is running on port 3001
+2025-08-01 15-11 [INFO] - Database connected successfully
+2025-08-01 15-11 [INFO] - All models synced
+2025-08-01 15-11 [INFO] - Server is running on port 3001
+2025-08-01 15-11 [INFO] - Database connected successfully
+2025-08-01 15-11 [INFO] - All models synced
+2025-08-01 18-08 [INFO] - Server is running on port 3001
+2025-08-01 18-08 [INFO] - Database connected successfully
+2025-08-01 18-08 [INFO] - All models synced
+2025-08-01 18-10 [INFO] - Server is running on port 3001
+2025-08-01 18-10 [INFO] - Database connected successfully
+2025-08-01 18-10 [INFO] - All models synced
+2025-08-01 18-17 [INFO] - Server is running on port 3001
+2025-08-01 18-17 [INFO] - Database connected successfully
+2025-08-01 18-17 [INFO] - All models synced
+2025-08-01 18-23 [INFO] - Server is running on port 3001
+2025-08-01 18-23 [INFO] - Database connected successfully
+2025-08-01 18-23 [INFO] - All models synced
+2025-08-01 18-33 [INFO] - Server is running on port 3001
+2025-08-01 18-33 [INFO] - Database connected successfully
+2025-08-01 18-33 [INFO] - Server is running on port 3001
+2025-08-01 18-33 [INFO] - Database connected successfully
+2025-08-01 18-33 [INFO] - All models synced
+2025-08-01 18-35 [INFO] - Server is running on port 3001
+2025-08-01 18-35 [INFO] - Database connected successfully
+2025-08-01 18-35 [INFO] - All models synced
+2025-08-01 18-36 [INFO] - Server is running on port 3001
+2025-08-01 18-36 [INFO] - Database connected successfully
+2025-08-01 18-36 [INFO] - All models synced
